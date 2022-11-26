@@ -25,6 +25,7 @@
 		1D43016F29326FD500FA4BFA /*  CoffeeShopModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " CoffeeShopModel.swift"; sourceTree = "<group>"; };
 		1D430171293270C800FA4BFA /* ShopListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopListView.swift; sourceTree = "<group>"; };
 		1D430173293270D800FA4BFA /* ShopDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopDetailView.swift; sourceTree = "<group>"; };
+		1D430175293289EF00FA4BFA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		1D43015329326F8E00FA4BFA = {
 			isa = PBXGroup;
 			children = (
+				1D430175293289EF00FA4BFA /* README.md */,
 				1D43015E29326F8E00FA4BFA /* CoffeeShop */,
 				1D43015D29326F8E00FA4BFA /* Products */,
 			);
